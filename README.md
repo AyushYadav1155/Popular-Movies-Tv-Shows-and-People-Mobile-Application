@@ -35,6 +35,12 @@ It is a fairly easy and quick process, for your ease I'm leaving a link to a you
 
 YT link: https://www.youtube.com/watch?v=dCkVqY9MdUo 
 
+Your API Key should be pasted inside app level build gradle, specifically at the location displayed in the following image:-
+![7 new](https://github.com/AyushYadav1155/Popular-Movies-Tv-Shows-and-People-Mobile-Application/assets/153672671/b38a8d54-faba-4ab3-b7c4-6f0f4c2ae994)
+
+
+
+
 (P.S : I am from India there is a particular issue I faced that I would other people should avoid, Jio Wifi provider seem to not respond to request sent to TMDB website and one won't be able to use the Website nor the application with that service provider. I would suggest to use mobile data of different company to access the website as well as use the app, this is also for people who live outside India if the TMDB website is not responding could be a issue with your ISP and try switching internet to access the website and API)
 
 ## 2.5 Libraries used
