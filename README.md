@@ -5,7 +5,7 @@ Hello, thanks for showing an interest in my project. I have been working on this
 
 # 2. About Application
 
-This Application uses The Movie Database (TMDB) website's free API to display popular Movies , Tv Shows & People. This application follows MVVM Clean (Multi view-ViewModel) Architecture. This application has reached a certail level of operatablitiy but consist of few bugs which will be elaborated in the Limitations section of this file. Also this app won't work if import the code into android studio and try to run it, kindly read How to use section of this file to understand how to make the app functional.
+This Application uses The Movie Database (TMDB) website's free API to display popular Movies , Tv Shows & People. This application follows MVVM Clean (Multi view-ViewModel) Architecture. This application has reached a certain level of operability but consist of few bugs which will be elaborated in the Limitations section of this file. Also this app won't work if import the code into android studio and try to run it, kindly read How to use section of this file to understand how to make the app functional.
 
 ## 2.1 About MVVM Clean Architecture
 
@@ -30,12 +30,12 @@ https://drive.google.com/file/d/1YOXT3F1WiDQJLJUr67KiiMThiJYDaWDA/view?usp=shari
 
 ## 2.4 How to use it after importing code
 
-To use this application after downloading the source code, you would required to create an API for yourself from TMDB webite.
+To use this application after downloading the source code, you would required to create an API for yourself from TMDB website.
 It is a fairly easy and quick process, for your ease I'm leaving a link to a youtube video that would guide you to perform it.
 
 YT link: https://www.youtube.com/watch?v=dCkVqY9MdUo 
 
-(P.S : I am from India there is a particular issue I faced that I would other people should avoid, Jio Wifi provider seem to not repond to request sent to TMDB website and one won't be able to use the Website nor the application with that service provider. I would suggest to use mobile data of diffrent company to access the website as well as use the app, this is also for people who live outisde India if the TMDB webite is not responding could be a issue with your ISP and try switching internet to access the website and API)
+(P.S : I am from India there is a particular issue I faced that I would other people should avoid, Jio Wifi provider seem to not respond to request sent to TMDB website and one won't be able to use the Website nor the application with that service provider. I would suggest to use mobile data of different company to access the website as well as use the app, this is also for people who live outside India if the TMDB website is not responding could be a issue with your ISP and try switching internet to access the website and API)
 
 ## 2.5 Libraries used
 
@@ -53,15 +53,15 @@ As I am still a College student in process of learning Advance android developme
 
 - The application's update feature only works in 'Light' Mode of the Mobile.
 
-- The update feature can only be used once per app open. (I am assuming it is due to the way I used to call the funtion)
+- The update feature can only be used once per app open. (I am assuming it is due to the way I used to call the function)
 
-- For some reason sometimes cache momeny isn't updated properly.
+- For some reason sometimes cache memory isn't updated properly.
 
-If anyone taking an interest in this application and has a idea how to fix them kindly Email me at ayush.rk.yadav14@gmail.com (I have to learn more things in android so I have decided to move on other porjects and work on this while I have free time)
+If anyone taking an interest in this application and has a idea how to fix them kindly Email me at ayush.rk.yadav14@gmail.com (I have to learn more things in android so I have decided to move on other projects and work on this while I have free time)
 
 ## 2.7 Future Scope
 
-I haven't given much thought on the future of this application but I would like to implement Swipe layout for refreshing and remove the toolbar altogeather to avoid the hassle of fixing toolbar for Day and Night (Light & Dark) Mode.
+I haven't given much thought on the future of this application but I would like to implement Swipe layout for refreshing and remove the toolbar altogether to avoid the hassle of fixing toolbar for Day and Night (Light & Dark) Mode.
 
 
 
